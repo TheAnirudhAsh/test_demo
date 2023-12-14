@@ -1,0 +1,17 @@
+this is is test2
+
+Steps followed:
+
+1. Check status 
+
+$ git status
+
+
+2. Specify file to commit
+
+$ git add test2.txt
+
+
+3. Commit file to repo 
+
+$ git commit -m "this is test2"
