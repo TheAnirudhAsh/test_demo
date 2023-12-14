@@ -15,3 +15,8 @@ $ git add test2.txt
 3. Commit file to repo 
 
 $ git commit -m "this is test2"
+
+
+4. Push file to master branch
+
+$ git push origin master
