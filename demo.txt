@@ -1,0 +1,5 @@
+git test
+Hello world
+
+git --version
+mkdir test
